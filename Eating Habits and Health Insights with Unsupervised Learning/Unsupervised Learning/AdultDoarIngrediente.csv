@@ -1,0 +1,353 @@
+cluster,BMI,ORRECIPEDESC,count
+0,21,cafea preparata,2
+0,21,pate de ficat,1
+0,21,paine,1
+0,22,paine,36
+0,22,ciocolata,8
+0,22,rosie,8
+0,23,paine,54
+0,23,cafea preparata,13
+0,23,ceai,13
+0,24,paine,169
+0,24,cafea preparata,53
+0,24,rosie,50
+0,25,paine,165
+0,25,cafea preparata,47
+0,25,mar,33
+0,26,paine,287
+0,26,cafea preparata,104
+0,26,rosie,52
+0,27,paine,483
+0,27,cafea preparata,137
+0,27,ceai,55
+0,28,paine,359
+0,28,cafea preparata,166
+0,28,mar,72
+0,29,paine,353
+0,29,cafea preparata,120
+0,29,mar,61
+0,30,paine,458
+0,30,cafea preparata,164
+0,30,rosie,104
+0,31,paine,314
+0,31,rosie,82
+0,31,cafea preparata,81
+0,32,paine,347
+0,32,cafea preparata,128
+0,32,rosie,88
+0,33,paine,181
+0,33,cafea preparata,66
+0,33,rosie,50
+0,34,paine,214
+0,34,cafea preparata,84
+0,34,rosie,40
+0,35,paine,56
+0,35,cafea preparata,26
+0,35,ceai,9
+0,36,paine,139
+0,36,cafea preparata,53
+0,36,mar,38
+0,37,paine,53
+0,37,mar,10
+0,37,pepene,8
+0,38,paine,40
+0,38,mamaliga,8
+0,38,ceai verde,7
+0,39,paine,47
+0,39,cafea preparata,21
+0,39,ceai,16
+0,40,paine,17
+0,40,rosie,9
+0,40,cafea preparata,7
+0,41,paine,15
+0,41,ceai,4
+0,41,lapte,3
+0,42,paine,7
+0,42,lapte,5
+0,42,iaurt,5
+0,43,paine,34
+0,43,cafea preparata,14
+0,43,apa,7
+1,16,inghetata,1
+1,16,compot,1
+1,16,banana,1
+1,17,paine,30
+1,17,cartofi pai,10
+1,17,salam,7
+1,18,paine,24
+1,18,ceai,7
+1,18,lapte,5
+1,19,paine,89
+1,19,cafea preparata,25
+1,19,rosie,19
+1,20,paine,149
+1,20,cafea preparata,47
+1,20,mar,32
+1,21,paine,174
+1,21,ceai,52
+1,21,rosie,36
+1,22,paine,259
+1,22,cafea preparata,87
+1,22,mar,42
+1,23,paine,322
+1,23,cafea preparata,105
+1,23,apa,78
+1,24,paine,305
+1,24,cafea preparata,128
+1,24,rosie,91
+1,25,paine,376
+1,25,cafea preparata,112
+1,25,rosie,86
+1,26,paine,492
+1,26,cafea preparata,178
+1,26,rosie,132
+1,27,paine,247
+1,27,cafea preparata,66
+1,27,rosie,55
+1,28,paine,274
+1,28,cafea preparata,92
+1,28,rosie,54
+1,29,paine,88
+1,29,cafea preparata,50
+1,29,mar,25
+1,30,paine,114
+1,30,cafea preparata,54
+1,30,apa,30
+1,31,paine,116
+1,31,cafea preparata,41
+1,31,lapte,22
+1,32,paine,52
+1,32,cafea preparata,15
+1,32,ceai,7
+1,33,paine,32
+1,33,cafea preparata,9
+1,33,strugure,9
+1,34,paine,53
+1,34,cafea preparata,24
+1,34,rosie,15
+1,35,paine,20
+1,35,paine graham,6
+1,35,rosie,6
+1,36,mar,4
+1,36,rosie,4
+1,36,salata verde,4
+1,37,paine,3
+1,37,salam,2
+1,37,ou preparat,2
+1,43,rachiu,4
+1,43,paine,3
+1,43,cafea preparata,3
+2,14,paine,3
+2,14,cafea preparata,3
+2,14,biscuiti,1
+2,16,apa,4
+2,16,paine integrala,4
+2,16,compot,4
+2,17,paine,9
+2,17,ness,5
+2,17,paine alba,5
+2,18,paine,26
+2,18,cafea preparata,13
+2,18,suc,7
+2,19,paine,90
+2,19,cafea preparata,44
+2,19,lapte,22
+2,20,paine,162
+2,20,cafea preparata,48
+2,20,rosie,34
+2,21,paine,170
+2,21,cafea preparata,79
+2,21,ceai,37
+2,22,paine,248
+2,22,cafea preparata,116
+2,22,ceai,50
+2,23,paine,351
+2,23,cafea preparata,178
+2,23,ceai,68
+2,24,paine,356
+2,24,cafea preparata,154
+2,24,rosie,74
+2,25,paine,370
+2,25,cafea preparata,141
+2,25,rosie,81
+2,26,paine,298
+2,26,cafea preparata,133
+2,26,rosie,73
+2,27,paine,269
+2,27,cafea preparata,89
+2,27,ceai,48
+2,28,paine,167
+2,28,cafea preparata,58
+2,28,ceai,50
+2,29,paine,121
+2,29,cafea preparata,56
+2,29,rosie,30
+2,30,paine,151
+2,30,cafea preparata,74
+2,30,mar,26
+2,31,paine,71
+2,31,cafea preparata,20
+2,31,rosie,17
+2,32,paine,58
+2,32,cafea preparata,25
+2,32,rosie,11
+2,33,paine,20
+2,33,cafea preparata,12
+2,33,lapte,8
+2,34,paine,32
+2,34,cafea preparata,15
+2,34,ceai,6
+2,35,paine,15
+2,35,cafea preparata,8
+2,35,rosie,3
+2,36,paine,7
+2,36,cafea preparata,5
+2,36,guma de mestecat,3
+2,38,paine,3
+2,38,pui la ceaun,2
+2,38,salam,1
+2,40,banana,1
+2,40,cafea preparata,1
+2,40,castravete murat,1
+2,41,sunca,1
+2,41,salata verde,1
+2,41,paine,1
+2,43,mici la gratar,2
+2,43,paine,2
+2,43,seminte de floarea soarelui prajite,1
+3,14,cafea preparata,6
+3,14,stafide,2
+3,14,cartofi pai,2
+3,16,paine integrala,10
+3,16,banana,5
+3,16,compot,4
+3,17,paine,14
+3,17,ceai,8
+3,17,cafea preparata,8
+3,18,paine,48
+3,18,cafea preparata,13
+3,18,lapte,9
+3,19,paine,109
+3,19,cafea preparata,45
+3,19,mar,30
+3,20,paine,197
+3,20,cafea preparata,67
+3,20,rosie,47
+3,21,paine,221
+3,21,cafea preparata,106
+3,21,ceai,51
+3,22,paine,263
+3,22,cafea preparata,141
+3,22,mar,50
+3,23,paine,406
+3,23,cafea preparata,206
+3,23,ceai,83
+3,24,paine,353
+3,24,cafea preparata,154
+3,24,rosie,84
+3,25,paine,411
+3,25,cafea preparata,157
+3,25,rosie,96
+3,26,paine,310
+3,26,cafea preparata,125
+3,26,mar,64
+3,27,paine,249
+3,27,cafea preparata,101
+3,27,ceai,62
+3,28,paine,169
+3,28,ceai,67
+3,28,cafea preparata,65
+3,29,paine,111
+3,29,cafea preparata,51
+3,29,rosie,29
+3,30,paine,147
+3,30,cafea preparata,78
+3,30,rosie,29
+3,31,paine,63
+3,31,rosie,25
+3,31,lapte,16
+3,32,paine,65
+3,32,cafea preparata,30
+3,32,mar,16
+3,33,paine,30
+3,33,cafea preparata,10
+3,33,rosie,10
+3,34,paine,34
+3,34,cafea preparata,24
+3,34,rosie,11
+3,35,paine,13
+3,35,cafea preparata,8
+3,35,rosie,5
+3,36,cafea preparata,5
+3,36,paine,4
+3,36,mar,4
+3,38,paine,5
+3,38,apa,3
+3,38,mamaliga,2
+4,14,bere,5
+4,16,suc,3
+4,17,pepene verde,1
+4,17,bere,1
+4,18,apa plata,3
+4,18,apa minerala,2
+4,18,suc,1
+4,19,apa plata,30
+4,19,apa,18
+4,19,apa minerala,9
+4,20,apa,44
+4,20,apa plata,17
+4,20,suc,8
+4,21,apa,15
+4,21,apa minerala,14
+4,21,suc,11
+4,22,apa,18
+4,22,apa plata,16
+4,22,ceai,10
+4,23,apa,51
+4,23,apa plata,26
+4,23,bere,21
+4,24,apa,46
+4,24,apa minerala,20
+4,24,bere,20
+4,25,apa,67
+4,25,apa plata,27
+4,25,bere,18
+4,26,apa,56
+4,26,apa minerala,20
+4,26,ceai,18
+4,27,apa,65
+4,27,apa plata,34
+4,27,apa minerala,21
+4,28,apa,27
+4,28,bere,25
+4,28,apa minerala,21
+4,29,apa,37
+4,29,apa plata,24
+4,29,apa minerala,20
+4,30,bere,44
+4,30,apa minerala,42
+4,30,apa,30
+4,31,bere,19
+4,31,apa,13
+4,31,apa minerala,13
+4,32,bere,14
+4,32,apa minerala,14
+4,32,apa de fantana,6
+4,33,bere,6
+4,33,apa minerala,6
+4,33,cola,2
+4,34,apa,12
+4,34,bere,7
+4,34,apa minerala,6
+4,35,suc,3
+4,35,bere,2
+4,36,suc,7
+4,36,apa plata,7
+4,36,apa,7
+4,37,bere,4
+4,37,sifon,3
+4,37,apa carbogazoasa,2
+4,38,bere doza,1
+4,40,apa,7
+4,42,apa,7
+4,43,bere,2

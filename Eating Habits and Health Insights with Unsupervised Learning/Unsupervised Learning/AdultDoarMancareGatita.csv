@@ -1,0 +1,360 @@
+cluster,BMI,ORRECIPEDESC,count
+0,14,ciorba de legume cu carne de pui,2
+0,14,snitel,1
+0,14,piure de cartofi,1
+0,17,piure de cartofi,1
+0,17,chiftele,1
+0,18,chiftele,1
+0,18,salata de rosii si castraveti,1
+0,19,apa plata cu lamaie,8
+0,19,piure de cartofi,8
+0,19,chiftele,5
+0,20,piure de cartofi,9
+0,20,cafea cu lapte (fara zahar),5
+0,20,snitel,4
+0,21,piure de cartofi,16
+0,21,supa de legume,7
+0,21,snitel,7
+0,22,piure de cartofi,29
+0,22,supa de legume,14
+0,22,ciorba de legume,9
+0,23,ciorba de legume,25
+0,23,piure de cartofi,24
+0,23,mancare de cartofi,13
+0,24,piure de cartofi,59
+0,24,supa de legume,25
+0,24,ciorba de legume,19
+0,25,piure de cartofi,41
+0,25,supa de legume,25
+0,25,ciorba de legume,25
+0,26,piure de cartofi,60
+0,26,ciorba de legume,32
+0,26,supa de legume,21
+0,27,piure de cartofi,50
+0,27,ciorba de legume,23
+0,27,snitel,19
+0,28,piure de cartofi,39
+0,28,supa de legume,38
+0,28,ciorba de legume,27
+0,29,piure de cartofi,28
+0,29,mancare gatita,22
+0,29,ciorba de legume,19
+0,30,piure de cartofi,45
+0,30,ciorba de vitel,20
+0,30,ciorba de legume,19
+0,31,piure de cartofi,16
+0,31,snitel,10
+0,31,ciorba de legume,9
+0,32,piure de cartofi,18
+0,32,snitel,8
+0,32,supa de zarzavat cu galuste,7
+0,33,piure de cartofi,9
+0,33,supa de zarzavat cu galuste,7
+0,33,mancare gatita,7
+0,34,piure de cartofi,14
+0,34,salata de rosii,11
+0,34,supa de legume,6
+0,35,piure de cartofi,5
+0,35,supa de legume,3
+0,35,ciorba de legume,2
+0,36,spritz,7
+0,36,piure de cartofi,7
+0,36,snitel,7
+0,37,piure de cartofi,6
+0,37,ciorba de pui a la grec,1
+0,37,mancare de cartofi,1
+0,38,ciorba de vitel,4
+0,38,ciorba de legume,3
+0,38,ciorba de varza,2
+0,39,chiftele,2
+0,39,piure de cartofi,2
+0,39,ciorba de legume,1
+0,40,salata de rosii si castraveti,2
+0,40,salata de rosii,1
+0,41,ciorba de legume cu carne de porc,3
+0,41,piure de cartofi,2
+0,41,supa crema de legume,1
+0,42,ciorba de varza,1
+0,42,piure de cartofi,1
+0,42,ciorba de rosii,1
+0,43,piure de cartofi,3
+0,43,tocanita de cartofi,2
+0,43,mancare de cartofi,1
+1,14,cascaval pane,1
+1,14,ciorba de legume cu carne de pui,1
+1,14,salata,1
+1,16,pizza,3
+1,16,supa de salata verde,1
+1,16,mujdei de usturoi,1
+1,17,salata de cruditati,3
+1,17,salata de varza,3
+1,17,bors de gaina,2
+1,18,salata de vinete,5
+1,18,prajitura de casa,5
+1,18,supa,5
+1,19,"salata rosii, ardei, castraveti, ceapa",10
+1,19,salata de rosii,9
+1,19,salata de vinete,8
+1,20,piure de cartofi,21
+1,20,prajitura de casa,14
+1,20,supa de pasare,11
+1,21,cafea cu lapte (fara zahar),13
+1,21,salata de vinete,13
+1,21,prajitura de casa,13
+1,22,prajitura de casa,18
+1,22,salata de rosii,17
+1,22,ciorba taraneasca,11
+1,23,ciorba taraneasca,26
+1,23,prajitura de casa,20
+1,23,piure de cartofi,18
+1,24,ciorba taraneasca,21
+1,24,salata de vinete,16
+1,24,prajitura de casa,16
+1,25,piure de cartofi,18
+1,25,salata de varza,17
+1,25,sarmale cu carne,16
+1,26,cozonac,17
+1,26,supa de pasare,15
+1,26,salata de vinete,15
+1,27,salata de vinete,14
+1,27,ciorba taraneasca,12
+1,27,supa de pasare,12
+1,28,ciorba taraneasca,11
+1,28,prajitura de casa,8
+1,28,salata de vinete,8
+1,29,prajitura cu mere,6
+1,29,sarmale cu carne,6
+1,29,supa,5
+1,30,sarmale cu carne,12
+1,30,prajitura de casa,8
+1,30,salata de rosii,6
+1,31,salata,7
+1,31,ciorba de perisoare,4
+1,31,prajitura de casa,3
+1,32,sarmale cu carne,5
+1,32,clatite cu dulceata,3
+1,32,placinta cu branza,3
+1,33,cafea cu lapte (fara zahar),8
+1,33,ghiveci,3
+1,33,sarmale cu carne,3
+1,34,prajitura de casa,5
+1,34,ciorba taraneasca,4
+1,34,supa de rosii,3
+1,35,macaroane cu mac si nuca,2
+1,35,supa de pasare,2
+1,35,supa de pasare cu taietei,2
+1,36,macaroane cu branza,1
+1,36,sandvis,1
+1,36,sarmale cu carne,1
+1,38,ciorba de perisoare,1
+2,14,ciorba de cartofi cu afumatura,2
+2,14,salata,2
+2,14,meniu chinezesc de pui,1
+2,16,mancare gatita,4
+2,16,ciorba taraneasca,3
+2,16,corn cu ciocolata,3
+2,17,ciorba taraneasca,3
+2,17,supa de legume,2
+2,17,supa de fasole,2
+2,18,ciorba de salata,4
+2,18,ciorba taraneasca,4
+2,18,gogosi cu zahar,4
+2,19,ciorba taraneasca,11
+2,19,ciorba de legume,9
+2,19,bors de gaina,7
+2,20,ciorba taraneasca,16
+2,20,cafea cu lapte si zahar,11
+2,20,lapte cu cereale,10
+2,21,bors de gaina,19
+2,21,ciorba taraneasca,16
+2,21,salata de vinete,13
+2,22,pilaf de orez,16
+2,22,ciorba taraneasca,15
+2,22,bors de gaina,14
+2,23,ciorba taraneasca,37
+2,23,supa,24
+2,23,bors de gaina,21
+2,24,ciorba taraneasca,25
+2,24,bors de gaina,18
+2,24,bors de fasole,17
+2,25,bors de gaina,21
+2,25,ciorba taraneasca,19
+2,25,salata de vinete,19
+2,26,bors de gaina,22
+2,26,salata de vinete,18
+2,26,supa de pasare,16
+2,27,ciorba taraneasca,20
+2,27,supa de pasare,12
+2,27,ciorba de zarzavat,9
+2,28,ciorba taraneasca,10
+2,28,supa,8
+2,28,bors de fasole,8
+2,29,bors de gaina,7
+2,29,ciorba taraneasca,7
+2,29,supa de pasare,4
+2,30,ciorba taraneasca,11
+2,30,bors de gaina,7
+2,30,ciorba de burta,5
+2,31,prajitura cu mere,6
+2,31,bors de gaina,5
+2,31,ciorba taraneasca,4
+2,32,ardei umpluti,3
+2,32,bors de fasole,3
+2,32,bors de gaina,3
+2,33,cafea cu lapte (fara zahar),6
+2,33,supa cu taietei,4
+2,33,ciorba carne porc afumata,2
+2,34,salata de varza,2
+2,34,ciorba de cartofi,2
+2,34,ciorba taraneasca,2
+2,35,salata de vinete,2
+2,35,salata de icre,1
+2,35,tocanita de pui cu galuste,1
+2,36,mancare de fasole verde,2
+2,36,ciorba de burta,1
+2,36,cascaval pane,1
+2,38,tocanita de cartofi cu costita,1
+3,20,bors de gaina,2
+3,20,ciorba de peste,2
+3,20,mancare de vinete,2
+3,21,prajitura de casa,4
+3,21,salata de vinete,2
+3,21,ciorba de fasole verde,1
+3,22,salata de vinete,10
+3,22,prajitura de casa,10
+3,22,salata de rosii,7
+3,23,cafea cu zahar,10
+3,23,cafea cu lapte (fara zahar),8
+3,23,bors de fasole,6
+3,24,salata de vinete,20
+3,24,cafea cu lapte (fara zahar),17
+3,24,bors de gaina,10
+3,25,ciorba taraneasca,16
+3,25,salata de vinete,12
+3,25,macaroane cu branza,8
+3,26,bors de gaina,23
+3,26,salata de vinete,18
+3,26,prajitura de casa,15
+3,27,salata de vinete,20
+3,27,salata de varza,18
+3,27,bors de gaina,15
+3,28,salata de vinete,20
+3,28,salata,15
+3,28,salata de varza,14
+3,29,bors de gaina,11
+3,29,pilaf de orez,10
+3,29,bors de fasole,9
+3,30,salata de vinete,13
+3,30,ciorba de perisoare,13
+3,30,salata de varza,12
+3,31,ciorba de perisoare,8
+3,31,ciorba taraneasca,7
+3,31,cozonac,7
+3,32,sarmale cu carne,17
+3,32,ciorba taraneasca,10
+3,32,ciorba de perisoare,9
+3,33,sarmale cu carne,8
+3,33,ciorba de perisoare,6
+3,33,salata de varza,6
+3,34,salata de vinete,9
+3,34,salata de varza,8
+3,34,salata de rosii,8
+3,35,sarmale cu carne,3
+3,35,piftie,3
+3,35,ciorba de legume cu galuste,3
+3,36,bors de gaina,9
+3,36,sandvis,6
+3,36,prajitura de casa,5
+3,37,bors de gaina,2
+3,37,mancare de mazare verde,2
+3,37,bors cu carne de porc,1
+3,38,cafea cu lapte (fara zahar),3
+3,38,chec,3
+3,38,ciorba de zarzavat,3
+3,39,bors de gaina,4
+3,39,salata de vinete,3
+3,39,supa cu taietei,3
+3,40,salata de vinete,3
+3,40,ciorba de perisoare,2
+3,40,ciorba de zarzavat,2
+3,41,ciorba de burta,3
+3,41,iahnie de fasole,2
+3,41,snitel de porc,2
+3,42,cozonac,2
+3,42,salata de rosii si castraveti,2
+3,42,prajitura cu mere,1
+3,43,mancare gatita,5
+3,43,supa,4
+3,43,ciorba taraneasca,3
+4,19,supa de vita,2
+4,19,snitel de soia,2
+4,19,mancare de limba vita cu sos si masline,2
+4,20,ciorba de zarzavat,3
+4,20,bors de cartofi,2
+4,20,bors de fasole,2
+4,21,ciorba taraneasca,5
+4,21,mujdei de usturoi,4
+4,21,cafea cu lapte (fara zahar),4
+4,22,bors de gaina,11
+4,22,bors de fasole,8
+4,22,salata de vinete,7
+4,23,bors de fasole,14
+4,23,cafea cu lapte (fara zahar),14
+4,23,supa de pasare,9
+4,24,ciorba taraneasca,18
+4,24,prajitura de casa,16
+4,24,supa de pasare,15
+4,25,bors de gaina,22
+4,25,ciorba taraneasca,21
+4,25,salata de rosii,14
+4,26,cafea cu lapte (fara zahar),19
+4,26,bors de fasole,15
+4,26,salata de vinete,13
+4,27,ciorba de perisoare,21
+4,27,ciorba taraneasca,19
+4,27,bors de gaina,17
+4,28,bors de fasole,18
+4,28,ciorba taraneasca,13
+4,28,supa de pasare,11
+4,29,bors de gaina,15
+4,29,salata de vinete,13
+4,29,ciorba taraneasca,11
+4,30,ciorba taraneasca,17
+4,30,salata de vinete,15
+4,30,bors de gaina,14
+4,31,piure de cartofi,10
+4,31,ciorba de perisoare,10
+4,31,sarmale cu carne,9
+4,32,ciorba taraneasca,15
+4,32,sarmale cu carne,12
+4,32,bors de gaina,12
+4,33,ciorba taraneasca,14
+4,33,bors pui (cu delikat),4
+4,33,cafea cu lapte (fara zahar),4
+4,34,bors de fasole,6
+4,34,ardei umpluti,6
+4,34,ciorba de perisoare,6
+4,35,cafea cu lapte si zahar,6
+4,35,macaroane cu branza,3
+4,35,pilaf de orez,3
+4,36,cafea cu lapte (fara zahar),7
+4,36,salata de legume,4
+4,36,ciorba de fasole verde,4
+4,37,bors de fasole,4
+4,37,pizza,3
+4,37,cozonac,3
+4,38,ciorba de zarzavat,3
+4,38,tocanita de ciuperci,2
+4,38,pilaf de orez,1
+4,39,supa cu taietei,3
+4,39,macaroane cu carne,2
+4,39,papara din oua,2
+4,40,bors pui (cu delikat),3
+4,40,branza cu smantana,2
+4,40,placinta cu branza,2
+4,41,ciorba de perisoare,2
+4,41,branzoaica,1
+4,41,chiftele cu sos marinat,1
+4,43,placinta cu branza,2
+4,43,supa de pasare cu taietei,1
+4,43,supa,1

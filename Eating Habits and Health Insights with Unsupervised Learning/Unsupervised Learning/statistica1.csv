@@ -1,0 +1,151 @@
+cluster,WeightClassification,ORRECIPEDESC,count
+0,Mild Thinness,ciorba taraneasca,7
+0,Mild Thinness,supa de pasare,6
+0,Mild Thinness,supa,5
+0,Mild Thinness,piure de cartofi,5
+0,Mild Thinness,cafea cu lapte (fara zahar),4
+0,Moderate Thinness,mancare gatita,4
+0,Moderate Thinness,corn cu ciocolata,3
+0,Moderate Thinness,ciorba taraneasca,3
+0,Moderate Thinness,tocanita de cartofi,2
+0,Moderate Thinness,pateuri cu branza de vaci,2
+0,Normal,ciorba taraneasca,120
+0,Normal,bors de gaina,87
+0,Normal,ciorba de perisoare,74
+0,Normal,pilaf de orez,70
+0,Normal,salata de vinete,63
+0,Obese Class I,ciorba taraneasca,19
+0,Obese Class I,bors de gaina,17
+0,Obese Class I,supa de rosii,13
+0,Obese Class I,salata,13
+0,Obese Class I,cafea cu lapte (fara zahar),12
+0,Obese Class II,salata de vinete,2
+0,Obese Class II,supa de rosii,2
+0,Obese Class II,mancare de fasole verde,2
+0,Obese Class II,tocanita de pui,1
+0,Obese Class II,sandvis,1
+0,Overweight,ciorba taraneasca,73
+0,Overweight,bors de gaina,69
+0,Overweight,supa de pasare,56
+0,Overweight,salata de vinete,54
+0,Overweight,salata de varza,42
+0,Severe Thinness,salata,2
+0,Severe Thinness,ciorba de cartofi cu afumatura,2
+0,Severe Thinness,meniu chinezesc de pui,1
+1,Mild Thinness,salata de vinete,6
+1,Mild Thinness,salata de cruditati,6
+1,Mild Thinness,prajitura de casa,5
+1,Mild Thinness,pizza,5
+1,Mild Thinness,ciorba taraneasca,5
+1,Moderate Thinness,pizza,3
+1,Moderate Thinness,supa de salata verde,1
+1,Moderate Thinness,supa de pasare,1
+1,Moderate Thinness,snitel,1
+1,Moderate Thinness,piure de cartofi,1
+1,Normal,prajitura de casa,82
+1,Normal,ciorba taraneasca,79
+1,Normal,piure de cartofi,72
+1,Normal,bors de gaina,55
+1,Normal,salata de vinete,54
+1,Obese Class I,sarmale cu carne,21
+1,Obese Class I,prajitura de casa,19
+1,Obese Class I,salata,14
+1,Obese Class I,cafea cu lapte (fara zahar),13
+1,Obese Class I,supa de pasare,12
+1,Obese Class II,prajitura de casa,2
+1,Obese Class II,supa de pasare cu taietei,2
+1,Obese Class II,supa de pasare,2
+1,Obese Class II,bors de gaina,2
+1,Obese Class II,macaroane cu mac si nuca,2
+1,Overweight,piure de cartofi,49
+1,Overweight,sarmale cu carne,45
+1,Overweight,salata de vinete,45
+1,Overweight,prajitura de casa,42
+1,Overweight,ciorba taraneasca,41
+1,Severe Thinness,salata,1
+1,Severe Thinness,ciorba de legume cu carne de pui,1
+1,Severe Thinness,cascaval pane,1
+2,Normal,salata de vinete,37
+2,Normal,cafea cu lapte (fara zahar),29
+2,Normal,prajitura de casa,22
+2,Normal,bors de gaina,20
+2,Normal,bors de fasole,18
+2,Obese Class I,ciorba de perisoare,39
+2,Obese Class I,salata de varza,36
+2,Obese Class I,salata de vinete,36
+2,Obese Class I,sarmale cu carne,33
+2,Obese Class I,ciorba taraneasca,31
+2,Obese Class II,bors de gaina,14
+2,Obese Class II,ciorba de perisoare,8
+2,Obese Class II,pilaf de orez,7
+2,Obese Class II,sandvis,7
+2,Obese Class II,ciorba de zarzavat,7
+2,Obese Class III,mancare gatita,5
+2,Obese Class III,ciorba de burta,4
+2,Obese Class III,salata de vinete,4
+2,Obese Class III,snitel de porc,4
+2,Obese Class III,supa,4
+2,Overweight,salata de vinete,71
+2,Overweight,bors de gaina,66
+2,Overweight,salata de varza,61
+2,Overweight,pilaf de orez,46
+2,Overweight,ciorba taraneasca,45
+3,Mild Thinness,chiftele,2
+3,Mild Thinness,supa de legume,2
+3,Mild Thinness,salata de rosii si castraveti,1
+3,Mild Thinness,piure de cartofi,1
+3,Mild Thinness,ciorba de legume,1
+3,Normal,piure de cartofi,148
+3,Normal,ciorba de legume,57
+3,Normal,supa de legume,56
+3,Normal,snitel,41
+3,Normal,chiftele,37
+3,Obese Class I,piure de cartofi,98
+3,Obese Class I,ciorba de vitel,42
+3,Obese Class I,ciorba de legume,41
+3,Obese Class I,snitel,33
+3,Obese Class I,supa de legume,27
+3,Obese Class II,piure de cartofi,18
+3,Obese Class II,ciorba de legume,11
+3,Obese Class II,spritz,8
+3,Obese Class II,ciorba de varza,8
+3,Obese Class II,snitel,6
+3,Obese Class III,piure de cartofi,6
+3,Obese Class III,ciorba de legume cu carne de porc,3
+3,Obese Class III,tocanita de cartofi,2
+3,Obese Class III,salata de rosii si castraveti,2
+3,Obese Class III,ciorba de rosii,1
+3,Overweight,piure de cartofi,206
+3,Overweight,ciorba de legume,119
+3,Overweight,supa de legume,105
+3,Overweight,ciorba de vitel,76
+3,Overweight,snitel,68
+3,Severe Thinness,ciorba de legume cu carne de pui,2
+3,Severe Thinness,snitel,1
+3,Severe Thinness,piure de cartofi,1
+4,Mild Thinness,supa de carne cu galuste,1
+4,Normal,bors de fasole,40
+4,Normal,bors de gaina,34
+4,Normal,cafea cu lapte (fara zahar),33
+4,Normal,prajitura de casa,32
+4,Normal,salata de vinete,29
+4,Obese Class I,ciorba taraneasca,50
+4,Obese Class I,bors de gaina,37
+4,Obese Class I,sarmale cu carne,34
+4,Obese Class I,ciorba de perisoare,33
+4,Obese Class I,salata de vinete,31
+4,Obese Class II,supa de pasare,8
+4,Obese Class II,prajitura de casa,7
+4,Obese Class II,cafea cu lapte (fara zahar),7
+4,Obese Class II,bors de fasole,7
+4,Obese Class II,cafea cu lapte si zahar,6
+4,Obese Class III,placinta cu branza,4
+4,Obese Class III,bors pui (cu delikat),3
+4,Obese Class III,branza cu smantana,2
+4,Obese Class III,ciorba de perisoare,2
+4,Obese Class III,"sarmale cu carne, delikat",2
+4,Overweight,bors de gaina,73
+4,Overweight,ciorba taraneasca,71
+4,Overweight,salata de vinete,66
+4,Overweight,bors de fasole,55
+4,Overweight,sarmale cu carne,45

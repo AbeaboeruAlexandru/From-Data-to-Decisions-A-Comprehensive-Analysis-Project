@@ -1,0 +1,359 @@
+cluster,BMI,ORRECIPEDESC,count
+0,20,ulei,20
+0,20,paine,18
+0,20,sare,18
+0,21,sare,22
+0,21,ulei,18
+0,21,ceapa,18
+0,22,sare,173
+0,22,ulei,153
+0,22,paine,141
+0,23,sare,168
+0,23,paine,134
+0,23,ulei,123
+0,24,sare,371
+0,24,ulei,331
+0,24,paine,282
+0,25,sare,366
+0,25,paine,312
+0,25,ulei,303
+0,26,sare,492
+0,26,ulei,442
+0,26,paine,350
+0,27,sare,419
+0,27,ulei,360
+0,27,paine,268
+0,28,sare,514
+0,28,ulei,432
+0,28,paine,376
+0,29,sare,352
+0,29,ulei,295
+0,29,ceapa,208
+0,30,sare,402
+0,30,ulei,349
+0,30,ceapa,255
+0,31,sare,280
+0,31,ulei,216
+0,31,paine,201
+0,32,sare,271
+0,32,ulei,222
+0,32,paine,204
+0,33,sare,191
+0,33,ulei,157
+0,33,paine,128
+0,34,sare,214
+0,34,ulei,194
+0,34,paine,162
+0,35,sare,55
+0,35,ceapa,39
+0,35,paine,36
+0,36,sare,151
+0,36,ulei,139
+0,36,paine,96
+0,37,paine,19
+0,37,morcovi,12
+0,37,sare,12
+0,38,paine,39
+0,38,sare,38
+0,38,ulei,30
+0,39,sare,47
+0,39,ulei,46
+0,39,ceapa,31
+0,40,ulei,21
+0,40,sare,19
+0,40,paine,16
+0,41,sare,17
+0,41,paine,15
+0,41,ou (crud),12
+0,42,sare,14
+0,42,ulei,11
+0,42,lapte,9
+0,43,sare,26
+0,43,ulei,21
+0,43,ceapa,20
+1,14,bere,5
+1,16,suc,3
+1,17,bere,1
+1,17,pepene verde,1
+1,18,apa plata,3
+1,18,apa minerala,2
+1,18,suc,1
+1,19,apa plata,37
+1,19,apa,18
+1,19,apa minerala,9
+1,20,apa,44
+1,20,apa plata,17
+1,20,suc,12
+1,21,apa minerala,20
+1,21,apa,15
+1,21,suc,13
+1,22,apa,19
+1,22,apa plata,16
+1,22,ceai,12
+1,23,apa,52
+1,23,apa plata,26
+1,23,bere,21
+1,24,apa,49
+1,24,apa minerala,23
+1,24,bere,21
+1,25,apa,73
+1,25,apa plata,27
+1,25,bere,19
+1,26,apa,57
+1,26,apa minerala,21
+1,26,ceai,18
+1,27,apa,67
+1,27,apa plata,34
+1,27,apa minerala,22
+1,28,apa,29
+1,28,bere,25
+1,28,apa minerala,21
+1,29,apa,37
+1,29,apa plata,24
+1,29,apa minerala,22
+1,30,bere,44
+1,30,apa minerala,42
+1,30,apa,32
+1,31,bere,19
+1,31,apa,13
+1,31,apa minerala,13
+1,32,bere,14
+1,32,apa minerala,14
+1,32,apa de fantana,6
+1,33,apa minerala,6
+1,33,bere,6
+1,33,cola,2
+1,34,apa,12
+1,34,bere,7
+1,34,apa minerala,6
+1,35,suc,3
+1,35,bere,2
+1,36,apa plata,7
+1,36,suc,7
+1,36,apa,7
+1,37,bere,4
+1,37,sifon,3
+1,37,apa carbogazoasa,2
+1,38,bere doza,1
+1,40,apa,7
+1,42,apa,7
+1,43,bere,2
+2,14,sare,5
+2,14,ulei,4
+2,14,cafea preparata,4
+2,16,ulei,17
+2,16,sare,17
+2,16,ceapa,12
+2,17,sare,30
+2,17,paine,29
+2,17,ulei,23
+2,18,sare,69
+2,18,ulei,60
+2,18,paine,52
+2,19,sare,195
+2,19,ulei,159
+2,19,paine,131
+2,20,sare,418
+2,20,ulei,345
+2,20,ceapa,259
+2,21,sare,435
+2,21,ulei,379
+2,21,paine,281
+2,22,sare,459
+2,22,ulei,370
+2,22,ceapa,280
+2,23,sare,667
+2,23,ulei,547
+2,23,ceapa,429
+2,24,sare,455
+2,24,ulei,387
+2,24,paine,305
+2,25,sare,580
+2,25,ulei,472
+2,25,paine,394
+2,26,sare,546
+2,26,ulei,475
+2,26,ceapa,352
+2,27,sare,328
+2,27,ulei,277
+2,27,paine,227
+2,28,sare,315
+2,28,ulei,256
+2,28,ceapa,189
+2,29,sare,169
+2,29,ulei,141
+2,29,ceapa,117
+2,30,sare,212
+2,30,ulei,170
+2,30,ceapa,132
+2,31,sare,130
+2,31,ulei,96
+2,31,ceapa,80
+2,32,sare,66
+2,32,ulei,58
+2,32,paine,46
+2,33,sare,48
+2,33,ulei,39
+2,33,ceapa,33
+2,34,sare,43
+2,34,paine,38
+2,34,ulei,31
+2,35,sare,24
+2,35,ulei,18
+2,35,ceapa,16
+2,36,sare,8
+2,36,ulei,7
+2,36,ceapa,6
+2,38,apa,3
+2,38,ceapa,2
+2,38,paine,2
+2,43,paine,3
+2,43,ou fiert,2
+2,43,vin,1
+3,14,sare,8
+3,14,cafea preparata,5
+3,14,ulei,4
+3,16,apa,13
+3,16,ulei,13
+3,16,sare,13
+3,17,sare,35
+3,17,ulei,35
+3,17,paine,26
+3,18,sare,80
+3,18,ulei,65
+3,18,paine,55
+3,19,sare,207
+3,19,ulei,170
+3,19,paine,135
+3,20,sare,405
+3,20,ulei,308
+3,20,paine,244
+3,21,sare,394
+3,21,ulei,341
+3,21,ceapa,237
+3,22,sare,458
+3,22,ulei,372
+3,22,paine,291
+3,23,sare,639
+3,23,ulei,566
+3,23,ceapa,406
+3,24,sare,505
+3,24,ulei,436
+3,24,ceapa,313
+3,25,sare,630
+3,25,ulei,507
+3,25,ceapa,363
+3,26,sare,545
+3,26,ulei,496
+3,26,ceapa,308
+3,27,sare,342
+3,27,ulei,313
+3,27,paine,221
+3,28,sare,318
+3,28,ulei,269
+3,28,ceapa,188
+3,29,sare,170
+3,29,ulei,139
+3,29,apa,102
+3,30,sare,206
+3,30,ulei,167
+3,30,paine,133
+3,31,sare,111
+3,31,ulei,99
+3,31,paine,63
+3,32,sare,73
+3,32,ulei,63
+3,32,paine,55
+3,33,sare,42
+3,33,ulei,37
+3,33,ceapa,33
+3,34,sare,54
+3,34,ulei,52
+3,34,ceapa,39
+3,35,sare,30
+3,35,ulei,28
+3,35,zahar,19
+3,36,sare,10
+3,36,ulei,9
+3,36,ceapa,7
+3,38,verdeata,2
+3,38,bors crud,2
+3,38,carne,2
+3,43,mici la gratar,2
+3,43,paine,2
+3,43,cartofi pai,1
+4,17,cartofi,2
+4,17,ness,2
+4,17,ou ochi,2
+4,19,sare,40
+4,19,paine,32
+4,19,ulei,32
+4,20,paine,30
+4,20,sare,28
+4,20,rosie,25
+4,21,paine,76
+4,21,sare,70
+4,21,ulei,49
+4,22,sare,177
+4,22,ulei,150
+4,22,paine,135
+4,23,sare,309
+4,23,paine,236
+4,23,ulei,231
+4,24,sare,496
+4,24,ulei,424
+4,24,paine,344
+4,25,sare,408
+4,25,ulei,361
+4,25,paine,287
+4,26,sare,596
+4,26,ulei,500
+4,26,paine,419
+4,27,sare,703
+4,27,paine,555
+4,27,ulei,544
+4,28,sare,390
+4,28,ulei,323
+4,28,paine,293
+4,29,sare,347
+4,29,paine,297
+4,29,ulei,295
+4,30,sare,549
+4,30,ulei,428
+4,30,paine,371
+4,31,sare,344
+4,31,ulei,281
+4,31,paine,249
+4,32,sare,347
+4,32,ulei,287
+4,32,ceapa,235
+4,33,sare,105
+4,33,paine,97
+4,33,ulei,82
+4,34,sare,187
+4,34,ulei,151
+4,34,ceapa,124
+4,35,sare,60
+4,35,ulei,50
+4,35,apa,43
+4,36,sare,119
+4,36,ulei,92
+4,36,apa,89
+4,37,sare,65
+4,37,ulei,52
+4,37,ceapa,40
+4,38,ulei,8
+4,38,morcovi,8
+4,38,apa,8
+4,39,sare,29
+4,39,ulei,21
+4,39,ceapa,19
+4,40,ulei,11
+4,40,rosie,10
+4,40,cafea preparata,8
+4,41,sare,14
+4,41,ulei,9
+4,41,ou (crud),7
+4,43,paine,16
+4,43,sare,12
+4,43,ulei,11

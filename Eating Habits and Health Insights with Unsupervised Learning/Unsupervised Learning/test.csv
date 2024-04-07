@@ -1,0 +1,949 @@
+,cluster,AGE,ORRECIPEDESC
+0,0,19,paine
+0,0,19,ceai
+0,0,19,ciorba taraneasca
+1,0,20,paine
+1,0,20,fructe
+1,0,20,lapte
+2,0,21,paine
+2,0,21,mar
+2,0,21,suc
+3,0,22,paine
+3,0,22,cafea preparata
+3,0,22,suc
+4,0,23,paine
+4,0,23,cafea preparata
+4,0,23,mar
+5,0,24,paine
+5,0,24,apa
+5,0,24,cafea preparata
+6,0,25,paine
+6,0,25,ceai
+6,0,25,mar
+7,0,26,paine
+7,0,26,cafea preparata
+7,0,26,suc
+8,0,27,paine
+8,0,27,cafea preparata
+8,0,27,mar
+9,0,28,paine
+9,0,28,cafea preparata
+9,0,28,rosie
+10,0,29,paine
+10,0,29,cafea preparata
+10,0,29,sare
+11,0,30,paine
+11,0,30,cafea preparata
+11,0,30,mar
+12,0,31,paine
+12,0,31,cafea preparata
+12,0,31,ceai
+13,0,32,paine
+13,0,32,rosie
+13,0,32,ceai
+14,0,33,paine
+14,0,33,cafea preparata
+14,0,33,mar
+15,0,34,paine
+15,0,34,cafea preparata
+15,0,34,apa
+16,0,35,paine
+16,0,35,cafea preparata
+16,0,35,ceai
+17,0,36,paine
+17,0,36,cafea preparata
+17,0,36,mar
+18,0,37,paine
+18,0,37,cafea preparata
+18,0,37,mar
+19,0,38,paine
+19,0,38,cafea preparata
+19,0,38,mar
+20,0,39,paine
+20,0,39,cafea preparata
+20,0,39,mar
+21,0,40,paine
+21,0,40,cafea preparata
+21,0,40,ceai
+22,0,41,paine
+22,0,41,cafea preparata
+22,0,41,rosie
+23,0,42,paine
+23,0,42,cafea preparata
+23,0,42,rosie
+24,0,43,paine
+24,0,43,cafea preparata
+24,0,43,rosie
+25,0,44,paine
+25,0,44,cafea preparata
+25,0,44,mar
+26,0,45,paine
+26,0,45,cafea preparata
+26,0,45,rosie
+27,0,46,paine
+27,0,46,ceai
+27,0,46,mar
+28,0,47,paine
+28,0,47,cafea preparata
+28,0,47,rosie
+29,0,48,paine
+29,0,48,cafea preparata
+29,0,48,mar
+30,0,49,paine
+30,0,49,cafea preparata
+30,0,49,mar
+31,0,50,paine
+31,0,50,ceai
+31,0,50,cafea preparata
+32,0,51,paine
+32,0,51,cafea preparata
+32,0,51,rosie
+33,0,52,paine
+33,0,52,cafea preparata
+33,0,52,ceai
+34,0,53,paine
+34,0,53,cafea preparata
+34,0,53,unt
+35,0,54,paine
+35,0,54,cafea preparata
+35,0,54,rosie
+36,0,55,paine
+36,0,55,cafea preparata
+36,0,55,rosie
+37,0,56,paine
+37,0,56,mar
+37,0,56,cafea preparata
+38,0,57,paine
+38,0,57,cafea preparata
+38,0,57,mar
+39,0,58,paine
+39,0,58,cafea preparata
+39,0,58,mar
+40,0,59,paine
+40,0,59,rosie
+40,0,59,ceai
+41,0,60,paine
+41,0,60,ceai
+41,0,60,cafea preparata
+42,0,61,paine
+42,0,61,rosie
+42,0,61,lapte
+43,0,62,paine
+43,0,62,ceai
+43,0,62,cafea preparata
+44,0,63,paine
+44,0,63,cafea preparata
+44,0,63,rosie
+45,0,64,ceai
+45,0,64,paine
+45,0,64,branza vaci
+46,0,65,paine de casa
+46,0,65,mamaliga
+46,0,65,mar
+47,0,66,paine
+47,0,66,rosie
+47,0,66,cafea cu lapte (fara zahar)
+48,0,67,paine
+48,0,67,lapte
+48,0,67,bomboane
+49,0,68,cafea preparata
+49,0,68,rosie
+49,0,68,biscuiti
+50,0,69,paine
+50,0,69,paine alba
+50,0,69,cafea preparata
+51,0,70,paine
+51,0,70,rosie
+51,0,70,ceai
+52,0,71,paine
+52,0,71,ceai
+52,0,71,cafea neindulcita
+53,0,72,paine
+53,0,72,cafea preparata
+53,0,72,ceai
+54,0,73,paine
+54,0,73,lapte
+54,0,73,mar
+55,0,74,paine
+55,0,74,rosie
+55,0,74,ceai
+56,0,75,ceai
+56,0,75,lapte
+56,0,75,cereale
+57,0,76,paine
+57,0,76,ceai
+57,0,76,lapte
+58,0,77,paine
+58,0,77,ceai
+58,0,77,strugure
+59,0,78,paine
+59,0,78,slanina afumata
+59,0,78,mustar
+60,0,79,paine alba
+60,0,79,zahar
+60,0,79,cafea preparata
+61,0,80,paine multicereale
+61,0,80,ceai
+61,0,80,lamaie
+62,0,81,paine alba
+62,0,81,rosie
+62,0,81,biscuiti
+63,0,82,paine
+63,0,82,cafea preparata
+63,0,82,pepene
+64,0,84,paine
+64,0,84,ceai
+64,0,84,gem
+65,0,86,paine
+65,0,86,ceai
+65,0,86,lapte
+66,0,88,corn
+66,0,88,unt
+66,0,88,paine
+67,1,19,paine
+67,1,19,mamaliga
+67,1,19,bere
+68,1,20,paine
+68,1,20,rosie
+68,1,20,ardei iute
+69,1,21,paine
+69,1,21,cartofi pai
+69,1,21,lapte
+70,1,22,paine
+70,1,22,mar
+70,1,22,cafea preparata
+71,1,23,paine
+71,1,23,strugure
+71,1,23,rosie
+72,1,24,paine
+72,1,24,rosie
+72,1,24,cartofi preparati
+73,1,25,paine
+73,1,25,ceai
+73,1,25,mamaliga
+74,1,26,paine
+74,1,26,cafea preparata
+74,1,26,cartofi pai
+75,1,27,paine
+75,1,27,suc
+75,1,27,cartofi pai
+76,1,28,paine
+76,1,28,cafea preparata
+76,1,28,cafea espresso
+77,1,29,paine
+77,1,29,cafea preparata
+77,1,29,rosie
+78,1,30,paine
+78,1,30,cafea preparata
+78,1,30,pizza
+79,1,31,paine
+79,1,31,rosie
+79,1,31,cafea preparata
+80,1,32,paine
+80,1,32,cafea preparata
+80,1,32,rosie
+81,1,33,paine
+81,1,33,cafea preparata
+81,1,33,ceai
+82,1,34,paine
+82,1,34,rosie
+82,1,34,cartofi pai
+83,1,35,paine
+83,1,35,cafea preparata
+83,1,35,rosie
+84,1,36,paine
+84,1,36,cafea preparata
+84,1,36,rosie
+85,1,37,paine
+85,1,37,cafea preparata
+85,1,37,mar
+86,1,38,paine
+86,1,38,cafea preparata
+86,1,38,bere
+87,1,39,paine
+87,1,39,cafea preparata
+87,1,39,ceai
+88,1,40,paine
+88,1,40,cafea preparata
+88,1,40,rosie
+89,1,41,paine
+89,1,41,cafea preparata
+89,1,41,lapte
+90,1,42,paine
+90,1,42,cafea preparata
+90,1,42,bere
+91,1,43,paine
+91,1,43,cafea preparata
+91,1,43,rosie
+92,1,44,paine
+92,1,44,rosie
+92,1,44,cafea preparata
+93,1,45,paine
+93,1,45,cafea preparata
+93,1,45,rosie
+94,1,46,paine
+94,1,46,cafea preparata
+94,1,46,rosie
+95,1,47,paine
+95,1,47,cafea preparata
+95,1,47,ceai
+96,1,48,paine
+96,1,48,cafea preparata
+96,1,48,rosie
+97,1,49,paine
+97,1,49,cafea preparata
+97,1,49,lapte
+98,1,50,paine
+98,1,50,cafea preparata
+98,1,50,apa
+99,1,51,paine
+99,1,51,cafea preparata
+99,1,51,apa minerala
+100,1,52,paine
+100,1,52,cafea preparata
+100,1,52,rosie
+101,1,53,paine
+101,1,53,cafea preparata
+101,1,53,rosie
+102,1,54,paine
+102,1,54,cafea preparata
+102,1,54,rosie
+103,1,55,paine
+103,1,55,cafea preparata
+103,1,55,rosie
+104,1,56,paine
+104,1,56,cafea preparata
+104,1,56,rosie
+105,1,57,paine
+105,1,57,cafea preparata
+105,1,57,mar
+106,1,58,paine
+106,1,58,cafea preparata
+106,1,58,ceai
+107,1,59,paine
+107,1,59,cafea preparata
+107,1,59,ceai
+108,1,60,paine
+108,1,60,cafea preparata
+108,1,60,rosie
+109,1,61,paine
+109,1,61,cafea preparata
+109,1,61,mar
+110,1,62,paine
+110,1,62,cafea preparata
+110,1,62,ceai
+111,1,63,paine
+111,1,63,cafea preparata
+111,1,63,rosie
+112,1,64,paine
+112,1,64,mar
+112,1,64,lapte
+113,1,65,paine
+113,1,65,ceai
+113,1,65,mar
+114,1,66,paine
+114,1,66,ceai
+114,1,66,rosie
+115,1,67,paine
+115,1,67,cafea preparata
+115,1,67,mar
+116,1,68,paine
+116,1,68,paine neagra
+116,1,68,rosie
+117,1,69,paine
+117,1,69,cafea preparata
+117,1,69,ceai
+118,1,70,paine
+118,1,70,cafea preparata
+118,1,70,rosie
+119,1,71,paine
+119,1,71,rosie
+119,1,71,sare
+120,1,72,paine
+120,1,72,varza calita
+120,1,72,carne de vacuta preparata
+121,1,73,paine
+121,1,73,lapte
+121,1,73,branza
+122,1,74,paine
+122,1,74,strugure
+122,1,74,iaurt
+123,1,75,paine
+123,1,75,mamaliga
+123,1,75,vin
+124,1,76,paine
+124,1,76,ceai
+124,1,76,biscuiti
+125,1,77,paine
+125,1,77,strugure
+125,1,77,rosie
+126,1,78,paine
+126,1,78,mamaliga
+126,1,78,cafea preparata
+127,1,79,mamaliga
+127,1,79,vin rosu
+127,1,79,lapte
+128,1,80,rosie
+128,1,80,paine
+128,1,80,ciorba taraneasca
+129,1,81,paine
+129,1,81,cafea preparata
+129,1,81,mamaliga
+130,1,82,paine
+130,1,82,vin
+130,1,82,cafea preparata
+131,1,84,paine
+131,1,84,cafea preparata
+131,1,84,compot de mere
+132,1,86,paine
+132,1,86,lapte
+132,1,86,apa minerala
+133,1,88,paine
+133,1,88,cafea preparata
+133,1,88,unt
+134,2,19,paine
+134,2,19,cafea preparata
+134,2,19,bere
+135,2,20,paine
+135,2,20,rosie
+135,2,20,ceai
+136,2,21,paine
+136,2,21,rosie
+136,2,21,mar
+137,2,22,paine
+137,2,22,cafea preparata
+137,2,22,lapte
+138,2,23,paine
+138,2,23,strugure
+138,2,23,cartofi pai
+139,2,24,paine
+139,2,24,banana
+139,2,24,suc
+140,2,25,paine
+140,2,25,mar
+140,2,25,strugure
+141,2,26,paine
+141,2,26,cafea preparata
+141,2,26,rosie
+142,2,27,paine
+142,2,27,cafea preparata
+142,2,27,fructe
+143,2,28,paine
+143,2,28,paine alba
+143,2,28,cafea preparata
+144,2,29,paine
+144,2,29,cafea preparata
+144,2,29,apa
+145,2,30,paine
+145,2,30,cafea preparata
+145,2,30,mar
+146,2,31,paine
+146,2,31,mar
+146,2,31,cafea preparata
+147,2,32,paine
+147,2,32,cafea preparata
+147,2,32,bere
+148,2,33,paine
+148,2,33,cafea preparata
+148,2,33,ceai
+149,2,34,paine
+149,2,34,rosie
+149,2,34,cafea preparata
+150,2,35,paine
+150,2,35,cafea preparata
+150,2,35,rosie
+151,2,36,paine
+151,2,36,cafea preparata
+151,2,36,rosie
+152,2,37,paine
+152,2,37,cafea preparata
+152,2,37,mar
+153,2,38,paine
+153,2,38,cafea preparata
+153,2,38,mar
+154,2,39,paine
+154,2,39,cafea preparata
+154,2,39,rosie
+155,2,40,paine
+155,2,40,cafea preparata
+155,2,40,mar
+156,2,41,paine
+156,2,41,cafea preparata
+156,2,41,mar
+157,2,42,paine
+157,2,42,cafea preparata
+157,2,42,rosie
+158,2,43,paine
+158,2,43,cafea preparata
+158,2,43,rosie
+159,2,44,paine
+159,2,44,rosie
+159,2,44,cafea preparata
+160,2,45,paine
+160,2,45,cafea preparata
+160,2,45,rosie
+161,2,46,paine
+161,2,46,cafea preparata
+161,2,46,rosie
+162,2,47,paine
+162,2,47,cafea preparata
+162,2,47,rosie
+163,2,48,paine
+163,2,48,cafea preparata
+163,2,48,mar
+164,2,49,paine
+164,2,49,cafea preparata
+164,2,49,mar
+165,2,50,paine
+165,2,50,cafea preparata
+165,2,50,lapte
+166,2,51,paine
+166,2,51,cafea preparata
+166,2,51,apa minerala
+167,2,52,paine
+167,2,52,cafea preparata
+167,2,52,rosie
+168,2,53,paine
+168,2,53,cafea preparata
+168,2,53,rosie
+169,2,54,paine
+169,2,54,cafea preparata
+169,2,54,rosie
+170,2,55,paine
+170,2,55,mar
+170,2,55,cafea preparata
+171,2,56,paine
+171,2,56,cafea preparata
+171,2,56,rosie
+172,2,57,paine
+172,2,57,cafea preparata
+172,2,57,rosie
+173,2,58,paine
+173,2,58,cafea preparata
+173,2,58,mar
+174,2,59,paine
+174,2,59,cafea preparata
+174,2,59,mar
+175,2,60,paine
+175,2,60,cafea preparata
+175,2,60,rosie
+176,2,61,paine
+176,2,61,cafea preparata
+176,2,61,mar
+177,2,62,paine
+177,2,62,cafea preparata
+177,2,62,ceai
+178,2,63,paine
+178,2,63,cafea preparata
+178,2,63,mar
+179,2,64,paine
+179,2,64,mar
+179,2,64,salam
+180,2,65,paine
+180,2,65,ceai
+180,2,65,mar
+181,2,66,paine
+181,2,66,ceai
+181,2,66,mar
+182,2,67,paine
+182,2,67,strugure
+182,2,67,ciorba de zarzavat
+183,2,68,paine
+183,2,68,lapte
+183,2,68,paine neagra
+184,2,69,paine
+184,2,69,mar
+184,2,69,ceai
+185,2,70,paine
+185,2,70,cafea preparata
+185,2,70,rosie
+186,2,71,paine
+186,2,71,rosie
+186,2,71,mar
+187,2,72,paine
+187,2,72,branza vaci
+187,2,72,ceai
+188,2,73,paine
+188,2,73,ceai
+188,2,73,mar
+189,2,74,paine
+189,2,74,ceai
+189,2,74,paine prajita
+190,2,75,paine
+190,2,75,mar
+190,2,75,pruna
+191,2,76,paine
+191,2,76,ceai
+191,2,76,mar
+192,2,77,paine
+192,2,77,pruna
+192,2,77,ceai
+193,2,78,paine
+193,2,78,lapte
+193,2,78,mar
+194,2,79,tuica de prune
+194,2,79,mamaliga
+194,2,79,vin rosu
+195,2,80,paine
+195,2,80,ceai
+195,2,80,rosie
+196,2,81,paine
+196,2,81,bors de gaina
+196,2,81,mamaliga
+197,2,82,paine
+197,2,82,cafea preparata
+197,2,82,tuica
+198,2,84,paine
+198,2,84,cafea preparata
+198,2,84,biscuiti
+199,2,86,paine
+199,2,86,lapte
+199,2,86,apa minerala
+200,2,88,paine
+200,2,88,cafea preparata
+200,2,88,ciocolata
+201,3,19,paine
+201,3,19,rosie
+201,3,19,ou ochi
+202,3,20,paine
+202,3,20,cartofi pai
+202,3,20,mar
+203,3,21,paine
+203,3,21,ceai
+203,3,21,lapte
+204,3,22,paine
+204,3,22,cartofi pai
+204,3,22,dulciuri
+205,3,23,paine
+205,3,23,ceai
+205,3,23,ciorba taraneasca
+206,3,24,paine
+206,3,24,mar
+206,3,24,cafea preparata
+207,3,25,paine
+207,3,25,cafea preparata
+207,3,25,unt
+208,3,26,paine
+208,3,26,mar
+208,3,26,rosie
+209,3,27,paine
+209,3,27,mar
+209,3,27,apa
+210,3,28,paine
+210,3,28,cartofi pai
+210,3,28,mar
+211,3,29,paine
+211,3,29,apa
+211,3,29,cafea cu lapte (fara zahar)
+212,3,30,paine
+212,3,30,cafea preparata
+212,3,30,rosie
+213,3,31,paine
+213,3,31,lapte
+213,3,31,rosie
+214,3,32,paine
+214,3,32,cafea preparata
+214,3,32,ceai
+215,3,33,paine
+215,3,33,cafea preparata
+215,3,33,mar
+216,3,34,paine
+216,3,34,cafea preparata
+216,3,34,rosie
+217,3,35,paine
+217,3,35,cafea preparata
+217,3,35,ceai
+218,3,36,paine
+218,3,36,cafea preparata
+218,3,36,rosie
+219,3,37,paine
+219,3,37,cafea preparata
+219,3,37,mar
+220,3,38,paine
+220,3,38,cafea preparata
+220,3,38,apa plata
+221,3,39,paine
+221,3,39,cafea preparata
+221,3,39,mar
+222,3,40,paine
+222,3,40,cafea preparata
+222,3,40,rosie
+223,3,41,paine
+223,3,41,apa
+223,3,41,cafea preparata
+224,3,42,paine
+224,3,42,cafea preparata
+224,3,42,apa
+225,3,43,paine
+225,3,43,cafea preparata
+225,3,43,rosie
+226,3,44,paine
+226,3,44,cafea preparata
+226,3,44,mar
+227,3,45,paine
+227,3,45,cafea preparata
+227,3,45,rosie
+228,3,46,paine
+228,3,46,cafea preparata
+228,3,46,mar
+229,3,47,paine
+229,3,47,cafea preparata
+229,3,47,rosie
+230,3,48,strugure
+230,3,48,cafea preparata
+230,3,48,ciorba taraneasca
+231,3,49,paine
+231,3,49,cafea preparata
+231,3,49,apa
+232,3,50,cafea preparata
+232,3,50,paine
+232,3,50,apa
+233,3,51,paine
+233,3,51,cafea preparata
+233,3,51,mar
+234,3,52,paine
+234,3,52,cafea preparata
+234,3,52,banana
+235,3,53,paine
+235,3,53,cafea preparata
+235,3,53,zahar
+236,3,54,paine
+236,3,54,cafea preparata
+236,3,54,rosie
+237,3,55,paine
+237,3,55,mar
+237,3,55,cafea preparata
+238,3,56,paine
+238,3,56,cafea preparata
+238,3,56,ceai
+239,3,57,paine
+239,3,57,rosie
+239,3,57,bomboana ciocolata
+240,3,58,paine
+240,3,58,cafea preparata
+240,3,58,mar
+241,3,59,paine
+241,3,59,branza telemea
+241,3,59,rosie
+242,3,60,paine
+242,3,60,cafea preparata
+242,3,60,apa
+243,3,61,paine
+243,3,61,rosie
+243,3,61,cafea preparata
+244,3,62,paine
+244,3,62,ciorba taraneasca
+244,3,62,friptura de vita
+245,3,63,paine
+245,3,63,rosie
+245,3,63,cafea preparata
+246,3,64,paine
+246,3,64,ceai
+246,3,64,mar
+247,3,65,paine
+247,3,65,rosie
+247,3,65,ardei
+248,3,67,paine
+248,3,67,cafea preparata
+248,3,67,cafea neindulcita
+249,3,68,paine
+249,3,68,mar
+249,3,68,lapte
+250,3,69,paine
+250,3,69,cafea preparata
+250,3,69,ceai
+251,3,70,paine
+251,3,70,ceai
+251,3,70,rosie
+252,3,71,paine
+252,3,71,mar
+252,3,71,apa
+253,3,72,paine
+253,3,72,mamaliga
+253,3,72,cafea preparata
+254,3,73,paine
+254,3,73,salam
+254,3,73,salata de vinete
+255,3,74,paine
+255,3,74,cafea preparata
+255,3,74,lapte
+256,3,75,paine
+256,3,75,strugure
+256,3,75,ceai
+257,3,76,napolitana
+257,3,76,ardei
+258,3,77,paine
+258,3,77,vin rosu
+258,3,77,tuica
+259,3,78,paine
+259,3,78,paine neagra
+259,3,78,rosie
+260,3,79,branza vaci
+260,3,79,paine
+260,3,79,paine prajita
+261,3,80,paine
+261,3,80,ceai
+261,3,80,bors de fasole
+262,3,81,paine
+262,3,81,rosie
+262,3,81,ardei copt
+263,3,82,paine
+263,3,82,cafea preparata
+263,3,82,rosie
+264,3,86,paine
+264,3,86,mar
+264,3,86,mamaliga
+265,3,92,paine
+265,3,92,ceai
+265,3,92,mar
+266,4,20,apa de fantana
+266,4,20,bere
+266,4,20,suc
+267,4,21,suc
+267,4,21,apa
+267,4,21,ceai nestea
+268,4,22,bere
+268,4,22,suc
+268,4,22,apa
+269,4,23,apa minerala
+269,4,23,bere
+269,4,23,apa
+270,4,24,suc
+270,4,24,apa plata cu lamaie
+270,4,24,apa plata
+271,4,25,apa
+271,4,25,cola
+271,4,25,apa minerala
+272,4,26,apa plata
+272,4,26,apa minerala
+272,4,26,suc
+273,4,27,apa
+273,4,27,piersica
+273,4,27,ceai
+274,4,28,apa plata
+274,4,28,apa
+274,4,28,suc
+275,4,29,bere
+275,4,29,apa
+275,4,29,suc
+276,4,30,apa
+276,4,30,bere
+276,4,30,apa plata
+277,4,31,apa
+277,4,31,apa minerala
+277,4,31,suc
+278,4,32,apa plata
+278,4,32,apa minerala
+278,4,32,apa
+279,4,33,apa
+279,4,33,apa plata
+279,4,33,bere
+280,4,34,apa minerala
+280,4,34,bere
+280,4,34,suc
+281,4,35,apa
+281,4,35,apa minerala
+281,4,35,apa plata
+282,4,36,bere
+282,4,36,apa
+282,4,36,suc
+283,4,37,apa
+283,4,37,apa plata
+283,4,37,apa minerala
+284,4,38,apa
+284,4,38,apa plata
+284,4,38,compot
+285,4,39,bere
+285,4,39,apa minerala
+285,4,39,ceai de plante
+286,4,40,apa
+286,4,40,apa plata
+286,4,40,bere
+287,4,41,apa minerala
+287,4,41,apa
+287,4,41,apa plata
+288,4,42,apa
+288,4,42,bere
+288,4,42,apa minerala
+289,4,43,bere
+289,4,43,apa plata
+289,4,43,apa
+290,4,44,bere
+290,4,44,apa
+290,4,44,ceai
+291,4,45,bere
+291,4,45,apa
+291,4,45,apa plata
+292,4,46,apa
+292,4,46,bere
+292,4,46,apa plata
+293,4,47,apa plata
+293,4,47,apa
+293,4,47,bere
+294,4,48,apa de fantana
+294,4,48,apa
+294,4,48,apa plata
+295,4,49,apa
+295,4,49,piersica
+295,4,49,suc de mere
+296,4,50,apa
+296,4,50,apa minerala
+296,4,50,bere
+297,4,51,pepene verde
+297,4,51,bere fara alcool
+297,4,51,apa plata
+298,4,52,apa
+298,4,52,apa plata
+298,4,52,apa minerala
+299,4,53,apa plata
+299,4,53,apa
+299,4,53,apa minerala
+300,4,54,apa plata
+300,4,54,apa
+300,4,54,bere
+301,4,55,apa
+301,4,55,apa plata
+301,4,55,apa minerala
+302,4,56,bere
+302,4,56,apa plata
+302,4,56,apa carbogazoasa
+303,4,57,apa
+303,4,57,bere
+303,4,57,ceai
+304,4,58,apa minerala
+304,4,58,apa
+304,4,58,ceai
+305,4,59,apa plata
+305,4,59,apa
+305,4,59,bere
+306,4,60,apa
+306,4,60,bere
+306,4,60,apa minerala
+307,4,61,apa de fantana
+307,4,61,apa
+307,4,61,bere
+308,4,62,vin
+308,4,62,bere
+308,4,62,vin rosu
+309,4,63,apa plata
+309,4,63,apa minerala
+309,4,63,cartofi copti
+310,4,64,ceai
+311,4,65,apa
+312,4,68,apa
+312,4,68,bere
+312,4,68,apa de fantana
+313,4,69,apa
+313,4,69,apa minerala
+313,4,69,ceai antidiabetic
+314,4,70,apa
+314,4,70,apa de fantana
+314,4,70,peste preparat
+315,4,71,ceai
+315,4,71,cartof fiert
+316,4,72,apa minerala
+317,4,75,ceai
+318,4,77,bere
+319,4,80,bere
+320,4,86,apa de fantana
+321,4,88,apa minerala
